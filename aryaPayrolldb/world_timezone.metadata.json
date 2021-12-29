@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"fb9e95c871f04f469ba8acf6939b9d3d","collectionName":"world_timezone","type":"collection"}
